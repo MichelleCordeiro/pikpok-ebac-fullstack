@@ -1,14 +1,14 @@
 <!--Banner session-->
 <p align="">
-  <img src="https://i.postimg.cc/VLcYztsx/ebac.png" alt="EBAC" tittle="EBAC" width="200">
+  <img src="https://i.postimg.cc/VLcYztsx/ebac.png" alt="EBAC" tittle="EBAC" width="150">
 </p>
 
 <!--About session-->
-<h1 align="center">Tiktok</h1>
+<h1 align="center">Tiktok Clone</h1>
 
 <div align="center">
   <!-- <img src=video.gif alt="Tiktok app" tittle="Tiktok app" width="500"> -->
-  <p>Workshop de quatro dias onde é desenvolvido um app semelhante ao Tiktok.</p>
+  <p>Workshop de 6 dias para desenvolvimento do Tiktok Clone</p>
 </div>
 <br><br>
 
