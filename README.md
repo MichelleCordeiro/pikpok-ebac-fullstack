@@ -7,8 +7,7 @@
 <h1 align="center">Tiktok Clone</h1>
 
 <div align="center">
-  <!-- <img src=video.gif alt="Tiktok app" tittle="Tiktok app" width="500"> -->
-  <p>Workshop de 6 dias para desenvolvimento do Tiktok Clone</p>
+  <img src="./public/tiktokClone.gif" alt="Tiktok app" tittle="Tiktok app" width="500">
 </div>
 <br><br>
 
@@ -20,32 +19,25 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 </p><br>
 
 <!-- Projects -->
+<h3> 👩‍💻 Projeto Tiktok Clone </h3>
+Projeto desenvolvido durante o Workshop de 7 dias promovido pela EBAC. <br>
+
+Disponível aqui: https://tiktok-clone-1ecba.web.app/
+<br><br>
+
 <h3> 🎯 Aprendizado: </h3>
-Neste workshop em Javascript o foco foi:
 
-- consumo de API
-<!-- - fecth-then
-- async-await
-- classList -->
-
-<br>
-<h3> 🚀 Adicionais: </h3>
-
-- 
-<!-- - customização nos backgraounds dos cards segundo o tipo do pokemon no JS
-- customização com CSS
-- card flip com hover consumindo mais infomações da API -->
-
-<br>
-<h3> 🔮 Implementações futuras: </h3>
-
-- [ ] 
-<!-- - [ ] alterar flip card para apenas virar apenas a imagem e não o card todo
-- [ ] popup clicando nos botões
-- [ ] melhoria: flip card só funciona, pois carregar todos os 150 pokemons -->
+- utilização de componentes
+- useStage
+- useEffect
+- useRef
+- layout responsivo
+- conexão com banco de dados (firebase)
+- deploy (firebase)
 
 <!-- Dev Info -->
 <br>
@@ -56,6 +48,7 @@ Baseado no [código](https://github.com/nathyts/ebac-pokedex) usado no workshop.
 
 ---
 
+<br>
 ### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -89,40 +82,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 #### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-### Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-#### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-#### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-#### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-#### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-#### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-#### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
