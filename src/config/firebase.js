@@ -1,17 +1,19 @@
-import { initializeApp } from 'firebase/app';
-import { getFirestore } from 'firebase/firestore/lite';
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
 // TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDzyeD6iJKNMfr77cSw84XSLehyRe3uQ5M',
-  authDomain: 'tiktok-clone-1ecba.firebaseapp.com',
-  projectId: 'tiktok-clone-1ecba',
-  storageBucket: 'tiktok-clone-1ecba.appspot.com',
-  messagingSenderId: '417638921661',
-  appId: '1:417638921661:web:aad92d1881415fab8b4ed4'
+  apiKey: "AIzaSyDuirLG6CZOEio-4xuJV-J_DFDewk32KXw",
+  authDomain: "pikpok-aa4ab.firebaseapp.com",
+  projectId: "pikpok-aa4ab",
+  storageBucket: "pikpok-aa4ab.appspot.com",
+  messagingSenderId: "261205974336",
+  appId: "1:261205974336:web:4e4b185fc927035d616ea5",
+  measurementId: "G-1CNDBCL0TP"
 };
 
+// Initialize Firebase
 const app = initializeApp(firebaseConfig);
-const db = getFirestore(app);
-
-export default db;
+const analytics = getAnalytics(app);

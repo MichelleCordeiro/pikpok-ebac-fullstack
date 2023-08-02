@@ -4,10 +4,10 @@
 </p>
 
 <!--About session-->
-<h1 align="center">Tiktok Clone</h1>
+<h1 align="center">Pikpok Clone</h1>
 
 <div align="center">
-  <img src="./public/tiktokClone.gif" alt="Tiktok app" tittle="Tiktok app" width="500">
+  <img src="./public/pikpokClone.gif" alt="Pikpok app" tittle="Pikpok app" width="500">
 </div>
 <br><br>
 
@@ -23,7 +23,7 @@
 </p><br>
 
 <!-- Projects -->
-<h3> 👩‍💻 Projeto Tiktok Clone </h3>
+<h3> 👩‍💻 Projeto Pikpok Clone </h3>
 Projeto desenvolvido durante o Workshop de 7 dias promovido pela EBAC. <br>
 
 Disponível aqui: https://tiktok-clone-1ecba.web.app/
@@ -38,6 +38,15 @@ Disponível aqui: https://tiktok-clone-1ecba.web.app/
 - layout responsivo
 - conexão com banco de dados (firebase)
 - deploy (firebase)
+
+
+<br>
+<h2> 🔮 Possibilidade de implementações futuras: </h2>
+
+- [ ] ícone de curtida vermelho ao clicar
+- [ ] implementar whatsapp web no compartilhar
+- [ ] sombra no card do video
+- [ ] background com animação de degradê
 
 <!-- Dev Info -->
 <br>

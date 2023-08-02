@@ -1,6 +1,7 @@
 {
   "hosting": {
-    "public": "build",
+    "site": "pikpok-clone",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
